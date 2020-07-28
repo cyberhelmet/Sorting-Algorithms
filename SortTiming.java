@@ -6,7 +6,7 @@ import java.util.Random;
  * Part of 6.3DN Sorting Algorithms.
  * 
  * @author Abhishek Tamang
- * @version Last modification date goes here
+ * @version 28/07/2020
  */
 public class SortTiming {
     /** Supported algorithms */
